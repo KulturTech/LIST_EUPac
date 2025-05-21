@@ -14,6 +14,8 @@ Metal workers during the Roman times
 
 
 # Directory
+- img: image files
+- lib: articles, materials
 - public: results
 - src: source codes
 - test: trial codes
