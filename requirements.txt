@@ -1,5 +1,5 @@
-import pandas
-import numpy
-import spacy
-import os
-import re
+pandas===1.5.3
+numpy===2.2.6
+spacy===3.8.6
+os
+re
