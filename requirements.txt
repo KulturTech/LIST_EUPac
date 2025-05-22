@@ -2,5 +2,6 @@ pandas
 numpy
 spacy
 geopandas
+latincy
 os
 re
