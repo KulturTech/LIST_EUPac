@@ -1,3 +1,5 @@
 .venv
 
-test/text/jihye
+data/LIST_v1-2.parquet
+data/LIST_getting-started.ipynb
+test/text/jihye/todo.md

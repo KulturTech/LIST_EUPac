@@ -5,3 +5,5 @@ geopandas
 latincy
 os
 re
+requests
+pyarrow
